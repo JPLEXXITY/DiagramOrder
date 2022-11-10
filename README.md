@@ -13,4 +13,4 @@
   <ol>В появившемся списке нажимаем кнопку "Это устройство..."</ol>
   <ol>Выбираем файл с диаграммой</ol>
 </ul>
-https://raw.githubusercontent.com/<User>/<Repository>/<branch>/<path/to/gif>
+
