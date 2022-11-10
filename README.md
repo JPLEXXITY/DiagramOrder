@@ -13,4 +13,4 @@
   <ol>В появившемся списке нажимаем кнопку "Это устройство..."</ol>
   <ol>Выбираем файл с диаграммой</ol>
 </ul>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+https://raw.githubusercontent.com/<User>/<Repository>/<branch>/<path/to/gif>
